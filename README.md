@@ -1,3 +1,6 @@
+# This repo has mnoved to https://github.com/Sage-Bionetworks-IT/organizations-infra/tree/master/sceptre/logcentral
+
+
 # Overview
 Install, configure and manage the
 [AWS Sage central logging account](https://sagebionetworks.jira.com/wiki/spaces/IT/pages/577044503/Sage+AWS+Logging).
